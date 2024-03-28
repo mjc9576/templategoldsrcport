@@ -3,6 +3,7 @@ This contains the required files(that i use at least) to port, some goldsrc mode
 
 # Helpful websites for turning BMP files into TGA files(to prepare them for vtf conversion):
 Convertio(10 conversion limit and only 2 at a time): https://convertio.co/bmp-tga/
+
 Online-Convert(3 at a time and the rest cannot be converted without refreshing the page and putting them back): https://image.online-convert.com/convert/bmp-to-tga
 
 # Required software downloads
