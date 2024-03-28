@@ -1,10 +1,5 @@
 # Template Goldsrc to Source port
-This contains some goldsrc models(from halflife 2 classic), one template pre-ported model, some helpful websites, downloads for software needed, and some help with QC files!
-
-# Helpful websites for turning BMP files into TGA files(to prepare them for vtf conversion):
-Convertio(10 conversion limit and only 2 at a time): https://convertio.co/bmp-tga/
-
-Online-Convert(3 at a time and the rest cannot be converted without refreshing the page and putting them back): https://image.online-convert.com/convert/bmp-to-tga
+This contains some goldsrc models(from halflife 2 classic), one template pre-ported model, downloads for software needed, and some help with QC files!
 
 # Required software downloads
 Decompmdl: https://twhl.info/vault/view/6799
