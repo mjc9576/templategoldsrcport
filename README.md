@@ -8,7 +8,11 @@ Online-Convert(3 at a time and the rest cannot be converted without refreshing t
 
 # Required software downloads
 Decompmdl: https://twhl.info/vault/view/6799
+
 VTFEdit: https://gamebanana.com/tools/95
+
 .NET Framework 3.5: https://www.microsoft.com/en-us/download/details.aspx?id=21
+
 Crowbar 0.74: https://github.com/ZeqMacaw/Crowbar/releases/download/v0.74/Crowbar_2023-02-16_0.74.7z
+
 7-Zip: https://www.7-zip.org/
